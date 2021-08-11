@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @proflenicebala - LENICE  RODRIGUES BALANDIUK
-- 👀  SOU PROFESSORA NO PROGRAMA "EDUTECH" - PARANÁ
-- 🌱TRILHAS DE ESTUDO: GAMES I - MOBILE
+- 👀 SOU PROFESSORA NO PROGRAMA "EDUTECH" - PARANÁ
+- 🌱 TRILHAS DE ESTUDO: GAMES I - MOBILE- Professora no Curso Técnico de Informática 
 - 💞️ I’m looking to collaborate on  HTML - CSS - JAVA SCRIPT
-- 📫  lenice.rodrigues@escola.pr.gov.br
+- 📫 lenice.rodrigues@escola.pr.gov.br
 
 <!---
 proflenicebala/proflenicebala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
